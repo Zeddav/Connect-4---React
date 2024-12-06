@@ -40,30 +40,11 @@ before starting the project.
 
 ### Bonus features
 
-- Display players moves history during the game (color, coordinates of the disc, ...)
-- Click history item to restore the game to that state
 - Add a timer to limit the time each player has to make a move
 - Enhance the design of your application, make it look good, add some animations...
-- Save the current game state in the local storage, so that you can refresh the page to reload the game in the same state
-- Save games history in the local storage
-- Load games history from the local storage
 
 ## Useful resources 
 
 - [React.dev Docs](https://react.dev/reference/react)
 - [MDN Web Docs](https://developer.mozilla.org/en-US/)
 
-## Tips
-
-As a good developer you shouldn't start coding right away, take some time to think about the architecture of your app.
-You can start by doing some mockups online or on a paper, and/or determine the components you will need to develop the game.
-
-> Feel free to ask for help or validation of your architecture before starting to code.
-
-Try to think in React while developing components, each component should be simple and have a single responsibility.
-
-Leverage the power of TypeScript to use typing in your application, it will help you to produce better and more robust code.
-
-## Note about git
-
-Push to the main branch is restricted, you should switch to a new git branch named with you full name or initials before pushing anything to the remote repository.
